@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+from sklearn import train_test_split
 import matplotlib.pyplot as plt
 import pandas_datareader as data
 from yahoo_fin import stock_info as si
